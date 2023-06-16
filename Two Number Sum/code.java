@@ -1,3 +1,4 @@
+// given a target and an array we need to find the number that will sum up to the target number
 import java.util.HashMap;
 
 class code{
